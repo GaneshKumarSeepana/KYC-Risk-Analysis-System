@@ -1,0 +1,9 @@
+Customer_ID,Name,Age,Country,Income,Transaction_Amount,PAN_Verified,Address_Verified,Risk_Level
+1,Ravi Kumar,25,India,30000,5000,Yes,Yes,Low Risk
+2,Raj Sharma,19,Unknown,10000,90000,No,No,High Risk
+3,Amit Singh,45,India,70000,10000,Yes,Yes,Low Risk
+4,John Doe,22,Nigeria,20000,80000,No,Yes,High Risk
+5,Priya Patel,35,India,50000,7000,Yes,Yes,Low Risk
+6,Ali Khan,28,Unknown,15000,60000,No,No,High Risk
+7,Neha Gupta,40,India,80000,12000,Yes,Yes,Low Risk
+8,Rahul Verma,21,India,12000,45000,No,Yes,Medium Risk
