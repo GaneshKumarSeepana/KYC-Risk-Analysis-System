@@ -34,6 +34,4 @@ This project helps identify suspicious customer behavior and potential fraud ris
 - CSV Dataset
 - Git & GitHub
 
----
 
-## 📁 Project Structure
